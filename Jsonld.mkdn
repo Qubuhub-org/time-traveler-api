@@ -1,0 +1,83 @@
+# Salesforce Data 360
+
+**Source:** https://www.startuphub.ai/startups/salesforce-data-360
+**Profile type:** Startup
+
+> Salesforce's unified data foundation for AI-driven customer experiences and agentic workflows.
+
+## About
+
+Salesforce Data 360 is a hybrid data lakehouse platform that unifies customer data from multiple sources, making it actionable in near real-time. It serves as the foundational infrastructure for Salesforce's AI initiatives, including Agentforce 360, enabling intelligent context and trusted data for AI agents across sales, service, marketing, and operations. The platform integrates structured and unstructured data, offering robust governance and enabling personalized customer experiences.
+
+## Key facts
+
+- **Slug:** salesforce-data-360
+- **Website:** https://www.salesforce.com/data/
+- **Location:** San Francisco, United States
+- **Employees:** 0
+- **Operating status:** Active
+- **Total funding:** $0
+- **Sectors / tags:** Data Platform, Customer Data Platform, AI Infrastructure, Data Governance, Data Integration, Enterprise Software, Customer Experience, Agentic AI
+
+## JSON-LD
+
+Structured data aligned with this page's `<script type="application/ld+json">` (included when the profile is server-rendered).
+
+```json
+{
+  "@context": "https://schema.org",
+  "@type": "ProfilePage",
+  "url": "https://www.startuphub.ai/startups/salesforce-data-360",
+  "name": "Salesforce Data 360 - AI Startup Profile | StartupHub.ai",
+  "description": "This is the official profile of Salesforce Data 360. Salesforce Data 360 is a startup operating in Data Platform and Customer Data Platform. Salesforce's unified data foundation for AI-driven customer experiences and agentic workflows. Headquartered in San Francisco, United States.",
+  "dateModified": "2026-05-17T22:07:41.577+00:00",
+  "mainEntity": {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "Salesforce Data 360",
+    "url": "https://www.salesforce.com/data/",
+    "logo": "https://bsmromhjxdnndenlrpgx.supabase.co/storage/v1/object/public/entity-images/logos/e5bfeb8e-38da-446a-b954-93e78d74b215-square.webp",
+    "description": "This is the official profile of Salesforce Data 360. Salesforce Data 360 is a startup operating in Data Platform and Customer Data Platform. Salesforce's unified data foundation for AI-driven customer experiences and agentic workflows. Headquartered in San Francisco, United States.",
+    "sameAs": [
+      "https://www.startuphub.ai/startups/salesforce-data-360"
+    ],
+    "address": {
+      "@type": "PostalAddress",
+      "addressLocality": "San Francisco, United States"
+    },
+    "knowsAbout": [
+      "Data Platform",
+      "Customer Data Platform",
+      "AI Infrastructure",
+      "Data Governance",
+      "Data Integration",
+      "Enterprise Software",
+      "Customer Experience",
+      "Agentic AI"
+    ]
+  },
+  "breadcrumb": {
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      {
+        "@type": "ListItem",
+        "position": 1,
+        "name": "Home",
+        "item": "https://www.startuphub.ai"
+      },
+      {
+        "@type": "ListItem",
+        "position": 2,
+        "name": "Startups",
+        "item": "https://www.startuphub.ai/startups"
+      },
+      {
+        "@type": "ListItem",
+        "position": 3,
+        "name": "Salesforce Data 360",
+        "item": "https://www.startuphub.ai/startups/salesforce-data-360"
+      }
+    ]
+  }
+}
+``
